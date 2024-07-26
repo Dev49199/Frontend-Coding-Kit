@@ -1,0 +1,4 @@
+.star-ratings{
+    display: flex;
+    cursor: pointer;
+}
